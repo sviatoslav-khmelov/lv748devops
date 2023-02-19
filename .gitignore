@@ -114,6 +114,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Binary
+.dat
+
 # Rope project settings
 .ropeproject
 
